@@ -3,11 +3,11 @@
 <!-- Managing your profile README -->
 <!-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
 
-![Welcome!](86T4GWHN.gif)
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daminov96&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daminov96&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daminov96&theme=github_dark&layout=compact)](https://wakatime.com/@daminov96)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daminov96&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jonibek&theme=github_dark&layout=compact)](https://wakatime.com/@Jonibek)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
