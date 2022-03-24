@@ -7,7 +7,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daminov96&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daminov96&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirdavsDev&theme=github_dark&layout=compact)](https://wakatime.com/@FirdavsDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daminov96&theme=github_dark&show_icons=true)](https://github.com/firdavsDev/) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daminov96&theme=github_dark&layout=compact)](https://wakatime.com/@daminov96)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
@@ -19,8 +19,8 @@
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonibekdaminov/)](https://www.linkedin.com/in/jonibekdaminov/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xackercoder@gmail.com)](mailto:xackercoder@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/joofficial)](https://t.me/firdavs_dev)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dovud.daminov@gmail.com)](mailto:dovud.daminov@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/joofficial)](https://t.me/joofficial)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=daminov96&theme=xcode" />
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
@@ -32,7 +32,7 @@
 <img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
 </p>
 ------------
-GitMemory: https://gitmemory.com/firdavsDev
+GitMemory: https://gitmemory.com/daminov96
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
